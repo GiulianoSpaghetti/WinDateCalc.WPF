@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinDateCalc.WPF", "WinDateCalc.WPF\WinDateCalc.WPF.csproj", "{309DEB74-C556-453E-84E8-20040612811A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{309DEB74-C556-453E-84E8-20040612811A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309DEB74-C556-453E-84E8-20040612811A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309DEB74-C556-453E-84E8-20040612811A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309DEB74-C556-453E-84E8-20040612811A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C9F1194-6B67-4233-9492-8DDD0B868CA1}
+	EndGlobalSection
+EndGlobal
